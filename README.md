@@ -33,3 +33,4 @@ print("number of columns:",len(df.axes[1]))
 ![Screenshot 2024-01-03 214840](https://github.com/allenjoveth/Read-from-CSV/assets/139422287/629aeb6a-24cc-4886-9381-63b56251a361)
 
 ## RESULT:
+program is successful and output is been execueted.
